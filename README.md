@@ -6,14 +6,14 @@
 <br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaariaMonteiro&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruh7gab&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaariaMonteiro&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruh7gab&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaariaMonteiro&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bruh7gab&bg_color=0d1117&color=1E90FF&line=1E90FF&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
