@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Bruno+Gabriel!+;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Systems+Analysis+and+Development;Be+Welcome++:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Bruno+Gabriel!+;I'm+18+years+old;I'm+from+Brazil;I'm+a+Game+Developer;Be+Welcome++:%29)](https://git.io/typing-svg)
 
 
 <br/>
@@ -26,20 +26,14 @@ style="border-radius: 4px"</a>
   
  ### Studying in this moment:
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF0000)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![GDScript](https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=512BD4)&nbsp;
 
 
  ### Learning tools:
 
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![netbeans](https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Godot](https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
