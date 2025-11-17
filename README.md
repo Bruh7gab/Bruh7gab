@@ -2,13 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Bruno+Gabriel!+;I'm+18+years+old;I'm+from+Brazil;I'm+a+Game+Developer;Be+Welcome++:%29)](https://git.io/typing-svg)
 
-
 <br/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruh7gab&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Bruno Gabriel github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruh7gab&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruh7gab&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=f06d22&text_color=DFDADA&bg_color=0d1117" alt="Bruno Gabriel github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruh7gab&layout=compact&hide_border=true&title_color=1E90FF&text_color=DFDADA&bg_color=0d1117" />
 </div>
 
 <br>
@@ -17,13 +16,16 @@
 
 <br>
 
-<div align="center"> 
-<a href="https://instagram.com/brunoca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-style="border-radius: 4px"</a>
-<a href = "mailto:monteiroviana2@gmail.com"> <img src="https://img.shields.io/badge/Gmail-777BB4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 4px"></a>
+<div align="center"> 
+<a href="https://instagram.com/brunoca" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 4px">
+</a>
 
- </div>
-  
+<a href="mailto:monteiroviana2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-777BB4?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 4px">
+</a>
+</div>
+
 <br>
 
 <div align="center">
@@ -31,19 +33,24 @@ style="border-radius: 4px"</a>
     <tr>
       <td width="50%" align="center">
         <h3>Studying in this moment:</h3>
-        <p>
-          <img src="https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="GDScript" />
-          <br><br>
-          <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=512BD4" alt="C#" />
-        </p>
+
+        <img src="https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" style="width:260px;height:auto;margin:10px;" />
+
+        <br><br>
+
+        <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=512BD4" style="width:260px;height:auto;margin:10px;" />
+
       </td>
+
       <td width="50%" align="center">
         <h3>Learning tools:</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" />
-        </p>
+
+        <img src="https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" style="width:260px;height:auto;margin:10px;" />
+
+        <br><br>
+
+        <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" style="width:260px;height:auto;margin:10px;" />
+
       </td>
     </tr>
   </table>
