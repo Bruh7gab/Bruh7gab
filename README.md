@@ -24,16 +24,31 @@ style="border-radius: 4px"</a>
 
  </div>
   
- ### Studying in this moment:
+<br>
 
-![GDScript](https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=512BD4)&nbsp;
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>Studying in this moment:</h3>
+        <p>
+          <img src="https://img.shields.io/badge/GDScript-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="GDScript" />
+          <br><br>
+          <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=512BD4" alt="C#" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>Learning tools:</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" />
+          <br><br>
+          <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
- ### Learning tools:
-
-![Godot](https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=478CBF)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF)&nbsp;
-
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
